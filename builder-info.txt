@@ -1,0 +1,7 @@
+SITE_ID=site-03
+DESIGN_ID=design-03
+DESIGN_NAME=상담전환형
+SITE_NAME=레인보우
+DOMAIN=
+PHONE=
+REGIONS=seoul
